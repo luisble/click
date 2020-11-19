@@ -1,1 +1,1 @@
-# Exemplos de Python
+# Exemplos de uso da biblioteca Click em Python
